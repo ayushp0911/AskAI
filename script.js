@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "gsk_....";
 
   function addMessage(text, sender) {
 
